@@ -2,7 +2,7 @@ import time
 import os
 
 name_list = ['PRIYANSHU JHA','HARJASPAL SINGH','AYUSHI BHUTANI','PRINCE']
-contact_list = [9518474744,1234567890,7894561230,4567891230,9513571230]
+contact_list = [9518474744,1234567890,7894561230,4567891230]
 
 def Dlt():
     name=str(input("     Enter Name to be Deleted from the Database:    \n\t"))
